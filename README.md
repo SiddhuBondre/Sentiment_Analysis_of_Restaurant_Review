@@ -30,3 +30,19 @@ Machine Learning → Logistic Regression, Naïve Bayes, Random Forest, XGBoost
 Deep Learning (Optional) → TensorFlow/Keras, LSTM, BERT
 
 Visualization → Matplotlib, Seaborn, WordCloud
+
+# 🔑 Methodology
+
+Data Collection → Gather restaurant review dataset.
+
+Data Cleaning → Remove punctuation, special characters, and lowercase text.
+
+Text Preprocessing → Tokenization, stopword removal, stemming/lemmatization.
+
+Feature Extraction → BoW / TF-IDF / Word2Vec / GloVe embeddings.
+
+Model Building → Train ML/DL models for sentiment classification.
+
+Evaluation → Use Accuracy, Precision, Recall, F1-score, ROC-AUC for performance.
+
+Visualization → Word clouds, sentiment distribution plots, confusion matrix.
