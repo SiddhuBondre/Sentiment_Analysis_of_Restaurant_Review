@@ -46,3 +46,31 @@ Model Building → Train ML/DL models for sentiment classification.
 Evaluation → Use Accuracy, Precision, Recall, F1-score, ROC-AUC for performance.
 
 Visualization → Word clouds, sentiment distribution plots, confusion matrix.
+
+# 📊 Expected Results
+
+A robust model that predicts whether a restaurant review is positive or negative.
+
+Accuracy can range from 70% – 85% depending on preprocessing and model selection.
+
+Visualization of most frequent positive & negative words.
+
+# 🚀 Applications
+
+🏨 Restaurant owners can monitor customer satisfaction.
+
+📱 Food delivery platforms can highlight genuine positive/negative feedback.
+
+🤖 Chatbots can classify sentiment of customer messages in real-time.
+
+📈 Business decision-making through insights into customer preferences.
+
+# 📌 Future Enhancements
+
+Implement Aspect-Based Sentiment Analysis (e.g., food quality, service, ambience).
+
+Use Deep Learning (LSTM, GRU, BERT) for higher accuracy.
+
+Deploy as a Web App using Flask/Django or as a Dashboard using Streamlit.
+
+Real-time sentiment tracking from social media reviews.
