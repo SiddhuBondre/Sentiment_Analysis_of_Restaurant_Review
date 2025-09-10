@@ -74,3 +74,15 @@ Use Deep Learning (LSTM, GRU, BERT) for higher accuracy.
 Deploy as a Web App using Flask/Django or as a Dashboard using Streamlit.
 
 Real-time sentiment tracking from social media reviews.
+
+# 📷 Sample Visualizations
+
+WordCloud of Positive vs Negative Reviews
+
+Sentiment Distribution Plot
+
+Confusion Matrix of Model Predictions
+
+# 🙌 Conclusion
+
+This project demonstrates how NLP and Machine Learning can transform unstructured restaurant reviews into meaningful insights. By identifying customer satisfaction trends, restaurants can enhance customer experiences, build loyalty, and improve overall business growth.
